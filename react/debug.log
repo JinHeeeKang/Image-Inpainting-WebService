@@ -1,0 +1,3 @@
+[0804/052127.773:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0804/052127.774:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/104551.500:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)

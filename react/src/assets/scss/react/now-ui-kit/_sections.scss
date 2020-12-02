@@ -1,0 +1,25 @@
+.clear-filter[filter-color="blue"] {
+  @include linear-gradient(rgba($black-color,.20), rgba(3, 161, 224, 0.6));
+}
+[data-background-color="blue"]{
+    background-color: $info-color;
+}
+.test-remaper {
+  // margin-top: -54.5vh;//윤지
+  // margin-top: -73.5vh;//지니
+  position: absolute;
+  top: 101.78px;
+  left: 50%;
+  transform: translate(-50% );
+
+}
+
+.section-nucleo-icons .icons-container i:nth-child(6) {
+  color: $info-color;
+}
+.page-header{
+  &.page-header-small{
+    min-height: 60vh;
+    max-height: 2000px;
+  }
+}
