@@ -2,7 +2,7 @@ const Router = require("koa-router");
 const upload_ori = require("../upload/ori_fileupload_s3");
 const upload_mask = require("../upload/mask_fileupload_s3");
 const multer = require("koa-multer");
-
+  
 module.exports = () => {
   const router = new Router();
 
@@ -11,7 +11,6 @@ module.exports = () => {
     // upload 핸들러(multer)를 통해서 데이터를 읽을 수 있다
     body = ctx.req.file;
     console.log(body);
-    // console.log(body.location);
     ctx.response.body = { body };
   });
 
