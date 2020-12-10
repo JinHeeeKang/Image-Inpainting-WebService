@@ -1,5 +1,12 @@
-# Image-Inpaining-WebService
-[react, koa_server, flask] Image Inpaining 모델을 활용해 이미지 내 불필요한 요소를 지워주는 웹 서비스
+# Image-Inpainting-WebService
+Image Inpaining 모델을 활용해 이미지 내 불필요한 요소를 지워주는 웹 서비스
+
+
+## 구성
+- react : 웹 페이지 구현
+- koa_server : S3 스토리지에 업로드
+- flask : 모델 적용
+
 
 ## 프로젝트 설명
 - 프로젝트 주제 및 실제 구현 결과물 소개
