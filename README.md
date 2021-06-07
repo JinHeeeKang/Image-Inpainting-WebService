@@ -11,7 +11,6 @@ Image Inpaining 모델을 활용해 이미지 내 불필요한 요소를 지워�
 ## 프로젝트 설명
 - 프로젝트 주제 및 실제 구현 결과물 소개
 - ppt로 이동       
-https://docs.google.com/presentation/d/1eaiTzDe1v0Qi6RZSgK1CEHxw-D9pJOKa/edit
 https://drive.google.com/file/d/1eaiTzDe1v0Qi6RZSgK1CEHxw-D9pJOKa/view?usp=sharing
 
 
